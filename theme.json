@@ -160,6 +160,8 @@
     },
     "plus": {
         "version": 0,
+		"unreadBadgeColor": "#e586a5",
+		"mentionLineColor": "#1DD75E",
         "iconpack": "md3",
         "icons": {
             "ic_new_pins": "#1dbec5",
