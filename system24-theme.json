@@ -48,23 +48,6 @@
         "#4d4d4d"
       ],
     
-    "BACKGROUND_PRIMARY": [
-        "#121212"
-      ],
-    
-    "BACKGROUND_SECONDARY": [
-        "#121212"
-      ],
-    
-    "BACKGROUND_SECONDARY_ALT": [
-        "#121212"
-      ],
-    
-    "BACKGROUND_TERTIARY": [
-        "#121212",
-        "#121212"
-      ],
-    
     "BACKGROUND_ACCENT": [
         "#1a1a1a"
       ],
@@ -157,6 +140,10 @@
     "rawColors": {
       "BRAND_500": "#1dd75e",
       "BRAND_360": "#132619",
-      "PLUM_20": "#121212"
+      "GREEN_360": "#1dd75e",
+      "PLUM_20": "#121212",
+      "PLUM_11": "#121212",
+      "PLUM_22": "#1dd75e",
+      "PRIMARY_460": "#1dd75e"
     }
   }
