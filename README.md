@@ -1,3 +1,3 @@
-dont download these lmao itll crash your shit
+**this theme is still a wip!!**
 
-i am Bad At This
+an approximate recreation of [this theme](https://github.com/refact0r/system24) for vencord
