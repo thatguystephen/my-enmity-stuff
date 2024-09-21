@@ -145,5 +145,9 @@
       "PLUM_11": "#121212",
       "PLUM_22": "#1dd75e",
       "PRIMARY_460": "#1dd75e"
+    },
+
+    "unsafe_colors": {
+      "CHAT_GREY": "#121212"
     }
   }
