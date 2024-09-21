@@ -1,72 +1,62 @@
 {
+"color": "#1DD75E",
 "name": "system24-theme",
 "description": "a theme meant to match the system24 theme for discord, and the spicetify theme it's inspired by",
-"authors": {
+"authors": [ 
+  {
     "name": "flowersnax",
     "id": "300410184046608384"
-  },
-"color": "#1DD75E",
+  } 
+],
 
 "spec": 2,
 
   "semanticColors": {
   "HEADER_PRIMARY": [
-      "#b3b3b3",
       "#b3b3b3"
     ],
 	
 	"HEADER_SECONDARY": [
-      "#808080",
       "#808080"
     ],
 	
 	"TEXT_NORMAL": [
-      "#b3b3b3",
       "#b3b3b3"
     ],
 	
 	"TEXT_MUTED": [
-      "#4d4d4d",
       "#4d4d4d"
     ],
 	
 	"TEXT_LINK": [
-      "#1dbec5",
       "#1dbec5"
     ],
 	
 	"INTERACTIVE_NORMAL": [
-      "#808080",
       "#808080"
     ],
 	
 	"INTERACTIVE_HOVER": [
-      "#b3b3b3",
       "#b3b3b3"
     ],
 	
 	"INTERACTIVE_ACTIVE": [
-      "#b3b3b3",
       "#b3b3b3"
     ],
 	
 	"INTERACTIVE_MUTED": [
-      "#4d4d4d",
       "#4d4d4d"
     ],
 	
 	"BACKGROUND_PRIMARY": [
-      "#121212",
       "#121212"
     ],
 	
 	"BACKGROUND_SECONDARY": [
-      "#121212",
       "#121212"
     ],
 	
 	"BACKGROUND_SECONDARY_ALT": [
-      "#121212",
       "#121212"
     ],
 	
@@ -76,123 +66,97 @@
     ],
 	
 	"BACKGROUND_ACCENT": [
-      "#1a1a1a",
       "#1a1a1a"
     ],
 	
 	"BACKGROUND_MOBILE_PRIMARY": [
-      "#121212",
       "#121212"
     ],
 	
 	"BACKGROUND_MOBILE_SECONDARY": [
-      "#121212",
       "#121212"
     ],
 	
 	"BACKGROUND_MESSAGE_HOVER": [
-      "#111111",
       "#111111"
     ],
 	
 	"BACKGROUND_MODIFIER_ACTIVE": [
-      "#1a1a1a",
       "#1a1a1a"
     ],
 	
 	"BACKGROUND_MODIFIER_SELECTED": [
-      "#222222",
       "#222222"
     ],
 	
 	"BACKGROUND_MODIFIER_ACCENT": [
-      "#808080",
       "#808080"
     ],
 	
 	"BG_BACKDROP": [
-      "#1a1a1a",
       "#1a1a1a"
     ],
 	
 	"BG_BASE_PRIMARY": [
-      "#121212",
       "#121212"
     ],
 	
 	"BG_BASE_SECONDARY": [
-      "#121212",
       "#121212"
     ],
 	
 	"CARD_PRIMARY_BG": [
-      "#1a1a1a",
       "#1a1a1a"
     ],
 	
 	"CARD_SECONDARY_BG": [
-      "#1a1a1a",
       "#1a1a1a"
     ],
 	
 	"CHANNEL_ICON": [
-      "#808080",
       "#808080"
     ],
 	
 	"CHAT_BACKGROUND": [
-      "#121212",
       "#121212"
     ],
 	
 	"CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#A6A6A6",
       "#A6A6A6"
     ],
 	
 	"TEXT_DANGER": [
-      "#e586a5",
       "#e586a5"
     ],
 	
 	"BACKGROUND_MODIFIER_SELECTED": [
-      "#222222",
       "#222222"
     ],
 	
 	"SCROLLBAR_THIN_TRACK": [
-	
-	  "transparent",
-    "transparent"
+	  "transparent"
     ],
   "SCROLLBAR_AUTO_THUMB": [
-	
-	  "#1a1a1a",
-    "#1a1a1a"
+	  "#1a1a1a"
     ],
 
   "SCROLLBAR_AUTO_TRACK": [
-	
-	  "#1a1a1a",
-    "#1a1a1a"
+	  "#1a1a1a"
     ],
 	
 	"EMBED_BACKGROUND": [
-      "#1a1a1a",
       "#1a1a1a"
     ],
 	
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-      "#1dd75e",
       "#1dd75e"
-    ],
-	
+    ]
 	
   },
 
   "rawColors": {
     "BRAND_500": "1dd75e",
-	  "BRAND_360": "132619",
-  },
+	  "BRAND_360": "132619"
+  }
 
 }
