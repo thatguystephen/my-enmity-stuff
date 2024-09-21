@@ -2,12 +2,10 @@
 "name": "system24",
 "description": "a theme meant to match the system24 theme for discord, and the spicetify theme it's inspired by",
   "authors": [
-  {
     "name": "flowersnax",
     "id": "300410184046608384"
-  }
   ]
-},
+	
   "spec": 2,
   "semanticColors": {
 	  "HEADER_PRIMARY": [
