@@ -52,6 +52,10 @@
         "#1a1a1a"
       ],
     
+    "BACKGROUND_SECONDARY": [
+        "#1a1a1a"
+    ],
+
     "BACKGROUND_MOBILE_PRIMARY": [
         "#121212"
       ],
@@ -73,7 +77,7 @@
       ],
     
     "BACKGROUND_MODIFIER_ACCENT": [
-        "#808080"
+        "#1a1a1a"
       ],
     
     "BG_BACKDROP": [
@@ -137,7 +141,15 @@
     
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
         "#1dd75e"
-      ]
+      ],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+        "#121212"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "transparent"
+    ]
     
     },
   
