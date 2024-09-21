@@ -8,8 +8,12 @@
       "id": "300410184046608384"
     } 
   ],
-  
   "spec": 2,
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#1dd75e",
+
+  },
   
     "semanticColors": {
     "HEADER_PRIMARY": [
@@ -149,11 +153,18 @@
 
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "transparent"
-    ]
+    ],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "transparent"
+    ],
+
+    ""
     
     },
   
     "rawColors": {
+      "RED_400": "#1dd75e",
       "BRAND_500": "#1dd75e",
       "BRAND_360": "#132619",
       "GREEN_360": "#1dd75e",
