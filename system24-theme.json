@@ -130,6 +130,10 @@
     "EMBED_BACKGROUND": [
         "#1a1a1a"
       ],
+
+    "KEYBOARD":[
+         "#121212"
+      ],
     
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
         "#1dd75e"
@@ -144,7 +148,9 @@
       "PLUM_20": "#121212",
       "PLUM_11": "#121212",
       "PLUM_22": "#1dd75e",
-      "PRIMARY_460": "#1dd75e"
+      "PRIMARY_460": "#1dd75e",
+      "PLUM_17": "#1a1a1a",
+      "ROLE_DEFAULT": "rgba(0, 0, 0, .3)"
     },
 
     "unsafe_colors": {
