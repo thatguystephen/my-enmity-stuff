@@ -1,199 +1,159 @@
 {
-/** Theme's name */
 "name": "system24",
-/** Theme's description */
 "description": "a theme meant to match the system24 theme for discord, and the spicetify theme it's inspired by",
-/** Array of theme authors */
-  "authors": {
+  "authors": [
+  {
     /** Author's nickname */
     "name": "flowersnax",
     /** Author's Discord user ID */
     "id": "300410184046608384"
-  }[];
-  /** Theme version */
+  }
+  ]
+},
   "spec": 2,
-  /** Object containing the semantic color recolorations */
   "semanticColors": {
-    /** Semantic key */
     [semanticKey: "HEADER_PRIMARY"]: [
-      /** Dark color */
       "#b3b3b3"
     ],
 	
 	[semanticKey: "HEADER_SECONDARY"]: [
-      /** Dark color */
       "#808080"
     ],
 	
 	[semanticKey: "TEXT_NORMAL"]: [
-      /** Dark color */
       "#b3b3b3"
     ],
 	
 	[semanticKey: "TEXT_MUTED"]: [
-      /** Dark color */
       "#4d4d4d"
     ],
 	
 	[semanticKey: "TEXT_LINK"]: [
-      /** Dark color */
       "#1dbec5"
     ],
 	
 	[semanticKey: "INTERACTIVE_NORMAL"]: [
-      /** Dark color */
       "#808080"
     ],
 	
 	[semanticKey: "INTERACTIVE_HOVER"]: [
-      /** Dark color */
       "#b3b3b3"
     ],
 	
 	[semanticKey: "INTERACTIVE_ACTIVE"]: [
-      /** Dark color */
       "#b3b3b3"
     ],
 	
 	[semanticKey: "INTERACTIVE_MUTED"]: [
-      /** Dark color */
       "#4d4d4d"
     ],
 	
 	[semanticKey: "BACKGROUND_PRIMARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BACKGROUND_SECONDARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BACKGROUND_SECONDARY_ALT"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BACKGROUND_TERTIARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BACKGROUND_ACCENT"]: [
-      /** Dark color */
       "#1a1a1a"
     ],
 	
 	[semanticKey: "BACKGROUND_MOBILE_PRIMARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BACKGROUND_MOBILE_SECONDARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BACKGROUND_MESSAGE_HOVER"]: [
-      /** Dark color */
       "#111111"
     ],
 	
 	[semanticKey: "BACKGROUND_MODIFIER_ACTIVE"]: [
-      /** Dark color */
       "#1a1a1a"
     ],
 	
 	[semanticKey: "BACKGROUND_MODIFIER_SELECTED"]: [
-      /** Dark color */
       "#222222"
     ],
 	
 	[semanticKey: "BACKGROUND_MODIFIER_ACCENT"]: [
-      /** Dark color */
       "#808080"
     ],
 	
 	[semanticKey: "BG_BACKDROP"]: [
-      /** Dark color */
       "#1a1a1a"
     ],
 	
 	[semanticKey: "BG_BASE_PRIMARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "BG_BASE_SECONDARY"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "CARD_PRIMARY_BG"]: [
-      /** Dark color */
       "#1a1a1a"
     ],
 	
 	[semanticKey: "CARD_SECONDARY_BG"]: [
-      /** Dark color */
       "#1a1a1a"
     ],
 	
 	[semanticKey: "CHANNEL_ICON"]: [
-      /** Dark color */
       "#808080"
     ],
 	
 	[semanticKey: "CHAT_BACKGROUND"]: [
-      /** Dark color */
       "#121212"
     ],
 	
 	[semanticKey: "CHANNEL_TEXT_AREA_PLACEHOLDER"]: [
-      /** Dark color */
       "#A6A6A6"
     ],
 	
 	[semanticKey: "TEXT_DANGER"]: [
-      /** Dark color */
       "#e586a5"
     ],
 	
 	[semanticKey: "BACKGROUND_MODIFIER_SELECTED"]: [
-      /** Dark color */
       "#222222"
     ],
 	
-	[semanticKey: "SCROLLBAR_THIN_TRACK"]: [
-	
+	[semanticKey: "SCROLLBAR_THIN_TRACK"]: [	
 	  "transparent"
     ],
     [semanticKey: "SCROLLBAR_AUTO_THUMB"]: [
-	
 	  "#1a1a1a"
     ],
     [semanticKey:"SCROLLBAR_AUTO_TRACK"]: [
-	
 	  "#1a1a1a"
     ],
 	
 	[semanticKey: "EMBED_BACKGROUND"]: [
-      /** Dark color */
       "#1a1a1a"
     ],
 	
 	[semanticKey: "CHAT_SWIPE_TO_REPLY_BACKGROUND"]: [
-      /** Dark color */
       "#1dd75e"
     ],
-	
-	
-  };
-  /** Object containing the raw color recolorations */
+  },
+
   "rawColors": {
     "BRAND_500": "1dd75e",
 	"BRAND_360": "132619",
-  };
+  }
 
 }
