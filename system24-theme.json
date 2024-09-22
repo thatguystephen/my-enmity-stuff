@@ -52,24 +52,32 @@
       ],
     
     "BACKGROUND_PRIMARY": [
-      "#121212"
+       "#121212"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#1a1a1a"
+        "#1a1a1a"
     ],
 
     "BACKGROUND_SECONDARY_ALT": [
-      "#121212"
+        "#121212"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#121212"
+        "#121212"
     ],
 
     "BACKGROUND_ACCENT": [
         "#1a1a1a"
-      ],
+    ],
+
+    "BACKGROUND_MENTIONED": [
+        "#132619"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+        "#121c16"
+    ],
     
     "BACKGROUND_FLOATING": [
         "#111111"
@@ -96,11 +104,11 @@
       ],
 
     "BG_BASE_PRIMARY": [
-      "#121212"
+        "#121212"
     ],
 
     "BG_BASE_SECONDARY": [
-      "#121212"
+        "#121212"
     ],
 
     "CARD_PRIMARY_BG": [
@@ -128,14 +136,14 @@
       ],
     
     "SCROLLBAR_THIN_TRACK": [
-      "transparent"
+        "transparent"
       ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#1a1a1a"
+        "#1a1a1a"
       ],
   
     "SCROLLBAR_AUTO_TRACK": [
-      "#1a1a1a"
+       "#1a1a1a"
       ],
     
     "EMBED_BACKGROUND": [
@@ -143,7 +151,7 @@
       ],
 
     "KEYBOARD":[
-         "#121212"
+        "#121212"
       ],
     
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
@@ -155,38 +163,42 @@
     ],
 
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "transparent"
+        "transparent"
+    ],
+
+    "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
+        "#1dd75e"
     ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "transparent"
+        "transparent"
     ],
 
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#1e1f22"
+        "#1e1f22"
     ],
 
     "SPOILER_REVEALED_BACKGROUND": [
-      "#2a2a2a"
+        "#2a2a2a"
     ],
 
     "ICON_MUTED": [
-        "#4d4d4d", 
+        "#4d4d4d" 
       ],
 
     "STATUS_DND": [
-      "#e586a5"
+        "#e586a5"
     ],
     "STATUS_IDLE": [
-      "#e0ae57"
+        "#e0ae57"
     ],
 
     "STATUS_OFFLINE": [
-      "#4d4d4d"
+        "#4d4d4d"
     ],
 
     "STATUS_ONLINE": [
-      "#1dd75e"
+        "#1dd75e"
     ]
     
     },
