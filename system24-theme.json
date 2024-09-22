@@ -168,6 +168,25 @@
 
     "SPOILER_REVEALED_BACKGROUND": [
       "#2a2a2a"
+    ],
+
+    "ICON_MUTED": [
+        "#4d4d4d", 
+      ],
+
+    "STATUS_DND": [
+      "#e586a5"
+    ],
+    "STATUS_IDLE": [
+      "#e0ae57"
+    ],
+
+    "STATUS_OFFLINE": [
+      "#4d4d4d"
+    ],
+
+    "STATUS_ONLINE": [
+      "#1dd75e"
     ]
     
     },
