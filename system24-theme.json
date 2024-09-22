@@ -205,9 +205,10 @@
   
     "rawColors": {
       "RED_400": "#1dd75e",
+      "BRAND_230": "#1dd75e",
       "BRAND_345": "#1dd75e",
-      "BRAND_360": "#132619",
       "BRAND_500": "#1dd75e",
+      "BRAND_560": "#1dd75e",
       "GREEN_360": "#1dd75e",
       "PLUM_11": "#121212",
       "PLUM_16": "#1a1a1a",
