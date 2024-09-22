@@ -100,7 +100,7 @@
       ],
     
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-        "#A6A6A6"
+        "#121212"
       ],
     
     "TEXT_DANGER": [
@@ -146,7 +146,13 @@
       "transparent"
     ],
 
-    ""
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#1e1f22"
+    ],
+
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#2a2a2a"
+    ]
     
     },
   
