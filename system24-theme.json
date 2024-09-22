@@ -51,6 +51,22 @@
         "#4d4d4d"
       ],
     
+    "BACKGROUND_PRIMARY": [
+      "#121212"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a"
+    ],
+
+    "BACKGROUND_SECONDARY_ALT": [
+      "#121212"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+      "#121212"
+    ],
+
     "BACKGROUND_ACCENT": [
         "#1a1a1a"
       ],
@@ -60,10 +76,6 @@
     ],
 
     "BACKGROUND_NESTED_FLOATING": [
-        "#1a1a1a"
-    ],
-
-    "BACKGROUND_SECONDARY": [
         "#1a1a1a"
     ],
 
@@ -82,6 +94,14 @@
     "BG_BACKDROP": [
         "#1a1a1a"
       ],
+
+    "BG_BASE_PRIMARY": [
+      "#121212"
+    ],
+
+    "BG_BASE_SECONDARY": [
+      "#121212"
+    ],
 
     "CARD_PRIMARY_BG": [
         "#1a1a1a"
@@ -154,8 +174,9 @@
   
     "rawColors": {
       "RED_400": "#1dd75e",
-      "BRAND_500": "#1dd75e",
+      "BRAND_345": "#1dd75e",
       "BRAND_360": "#132619",
+      "BRAND_500": "#1dd75e",
       "GREEN_360": "#1dd75e",
       "PLUM_11": "#121212",
       "PLUM_16": "#1a1a1a",
