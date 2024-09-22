@@ -55,6 +55,10 @@
         "#1a1a1a"
       ],
     
+    "BACKGROUND_FLOATING": [
+        "#111111"
+    ],
+
     "BACKGROUND_NESTED_FLOATING": [
         "#1a1a1a"
     ],
