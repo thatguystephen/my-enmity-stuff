@@ -12,15 +12,13 @@
   "plus": {
     "version": 0,
     "mentionLineColor": "#1dd75e"
-  },
+},
   
-    "semanticColors": {
+  "semanticColors": {
     "HEADER_PRIMARY": [
         "#b3b3b3"
       ],
-    "KEYBOARD": [
-        "#b3b3b3"
-      ],
+    
     "HEADER_SECONDARY": [
         "#808080"
       ],
@@ -55,39 +53,39 @@
     
     "BACKGROUND_PRIMARY": [
        "#121212"
-    ],
+      ],
 
     "BACKGROUND_SECONDARY": [
         "#1a1a1a"
-    ],
+      ],
 
     "BACKGROUND_SECONDARY_ALT": [
         "#121212"
-    ],
+      ],
 
     "BACKGROUND_TERTIARY": [
         "#121212"
-    ],
+      ],
 
     "BACKGROUND_ACCENT": [
         "#1a1a1a"
-    ],
+      ],
 
     "BACKGROUND_MENTIONED": [
         "#264c32"
-    ],
+      ],
 
     "BACKGROUND_MENTIONED_HOVER": [
         "#2a4234"
-    ],
+      ],
     
     "BACKGROUND_FLOATING": [
         "#111111"
-    ],
+      ],
 
     "BACKGROUND_NESTED_FLOATING": [
         "#1a1a1a"
-    ],
+      ],
 
     "BACKGROUND_MESSAGE_HOVER": [
         "#111111"
@@ -107,11 +105,11 @@
 
     "BG_BASE_PRIMARY": [
         "#121212"
-    ],
+      ],
 
     "BG_BASE_SECONDARY": [
         "#121212"
-    ],
+      ],
 
     "CARD_PRIMARY_BG": [
         "#1a1a1a"
@@ -152,8 +150,8 @@
         "#1a1a1a"
       ],
 
-    "KEYBOARD":[
-        "#121212"
+    "KEYBOARD": [
+        "#b3b3b3"
       ],
     
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
@@ -162,27 +160,27 @@
 
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
         "#121212"
-    ],
+      ],
 
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
         "transparent"
-    ],
+      ],
 
     "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
         "#1dd75e"
-    ],
+      ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
         "transparent"
-    ],
+      ],
 
     "SPOILER_HIDDEN_BACKGROUND": [
         "#1e1f22"
-    ],
+      ],
 
     "SPOILER_REVEALED_BACKGROUND": [
         "#2a2a2a"
-    ],
+      ],
 
     "ICON_MUTED": [
         "#4d4d4d" 
@@ -190,19 +188,20 @@
 
     "STATUS_DND": [
         "#e586a5"
-    ],
+      ],
+    
     "STATUS_IDLE": [
         "#e0ae57"
-    ],
+      ],
 
     "STATUS_OFFLINE": [
         "#4d4d4d"
-    ],
+      ],
 
     "STATUS_ONLINE": [
         "#1dd75e"
-    ]
-    },
+      ]
+ },
   
     "rawColors": {
       "RED_400": "#1dd75e",
