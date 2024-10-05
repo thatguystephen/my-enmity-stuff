@@ -20,7 +20,7 @@
       ],
     "KEYBOARD": [
         "#b3b3b3"
-    ],
+      ],
     "HEADER_SECONDARY": [
         "#808080"
       ],
@@ -202,7 +202,6 @@
     "STATUS_ONLINE": [
         "#1dd75e"
     ]
-    
     },
   
     "rawColors": {
